@@ -36,6 +36,7 @@
     "prettier": "^2.3.2"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "yargs": "^17.0.1"
   }
 }

@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const yargs = require('yargs')
-const axios = require('axios')
 const CrtShService = require('./services/CrtShService')
 
 const options = yargs.usage('Usage: -d <domain>').option('d', {
